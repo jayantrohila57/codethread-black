@@ -1,17 +1,14 @@
 ## borderless-dark-black-theme for VS Code
+![image 0](https://github.com/jayantrohila57/Extensions/blob/main/Images/vscode-default.jpeg?raw=true)
 
 
+![Image 1](https://github.com/jayantrohila57/Extensions/blob/main/Images/vscode-commandPalette.jpeg?raw=true)
 
 
+![Image 2](https://github.com/jayantrohila57/Extensions/blob/main/Images/vscode-panelTerminal.jpeg?raw=true)
 # Jayant Rohila's VS Code themes
 
-![Black VS Code theme](https://github.com/jayantrohila57/)
-
-
-
-
-
-
+![Github repo](https://github.com/jayantrohila57/Borderless-Dark-Black-Theme)
 
 ## Install
 
