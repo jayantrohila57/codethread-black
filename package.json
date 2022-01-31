@@ -1,0 +1,21 @@
+{
+    "name": "borderless-dark-black-theme",
+    "displayName": "Borderless-Dark-Black-Theme",
+    "description": "Borderless-Dark-Black-Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Borderless-Dark-Black-Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Borderless-Dark-Black-Theme-color-theme.json"
+            }
+        ]
+    }
+}
