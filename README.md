@@ -1,7 +1,17 @@
 ## borderless-dark-black-theme for VS Code
+
+
+
+
 # Jayant Rohila's VS Code themes
 
 ![Black VS Code theme](https://github.com/jayantrohila57/)
+
+
+
+
+
+
 
 ## Install
 
