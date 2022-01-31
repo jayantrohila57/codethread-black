@@ -1,42 +1,48 @@
 {
-    "name": "borderless-dark-black-theme",
-    "displayName": "Borderless-Dark-Black-Theme",
-    "description": "Borderless-Dark-Black-Theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.63.0"
-    },"keywords": [
-        "black",
-        "high contrast",
-        "all black",
-        "borderless",
-        "black border",
-        "theme",
-        "new theme",
-        "pitch black",
-        "black and white theme vscode",
-        "best black theme vscode",
-        "vscode black and white theme",
-        "black theme for vs code",
-        "best black theme for vscode",
-        "black theme in vs code",
-        "light theme for vscode",
-        "best dark theme vscode reddit",
-        "vs code themes dark",
-        "best dark theme vscode 2022",
-        "best dark theme vscode 2021",
-        "black theme visual studio"
-    ],
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Borderless-Dark-Black-Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Borderless-Dark-Black-Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "borderless-dark-black-theme",
+  "displayName": "Borderless-Dark-Black-Theme",
+  "description": "Borderless-Dark-Black-Theme",
+  "version": "0.0.1",
+  "publisher": "jayantrohila",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayantrohila57/Borderless-Dark-Black-Theme"
+  },
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "keywords": [
+    "black",
+    "high contrast",
+    "all black",
+    "borderless",
+    "black border",
+    "theme",
+    "new theme",
+    "pitch black",
+    "black and white theme vscode",
+    "best black theme vscode",
+    "vscode black and white theme",
+    "black theme for vs code",
+    "best black theme for vscode",
+    "black theme in vs code",
+    "light theme for vscode",
+    "best dark theme vscode reddit",
+    "vs code themes dark",
+    "best dark theme vscode 2022",
+    "best dark theme vscode 2021",
+    "black theme visual studio"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Borderless-Dark-Black-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Borderless-Dark-Black-Theme-color-theme.json"
+      }
+    ]
+  }
 }
