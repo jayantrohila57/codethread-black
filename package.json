@@ -2,8 +2,9 @@
 	"name": "codethread-black",
 	"displayName": "Codethread Black",
 	"description": "It's a black theme made only for concentrating on the actual code rather than the surrounding. providing better code visibility and no distracting borders works best in dark areas.",
-	"version": "1.0.8",
+	"version": "1.0.9",
 	"publisher": "jayantrohila",
+	"homepage": "https://github.com/jayantrohila57/codethread-black/releases",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/jayantrohila57/codethread-black"
@@ -11,36 +12,25 @@
 	"engines": {
 		"vscode": "^1.63.0"
 	},
+	"galleryBanner": {
+		"color": "#252B2E",
+		"theme": "dark"
+	},
 	"keywords": [
-		"black",
+		"dark",
+		"theme",
+		"color-theme",
 		"Black",
-		"Amoled black",
-		"Amoled black theme",
-		"Super black",
-		"simple black",
-		"vs code black theme",
-		"black for vs code",
-		"best vscode black theme",
-		"vscode theme black background",
-		"pitch black theme vscode",
-		"vs code black theme download",
-		"vs code black theme dark",
 		"jayant Rohila",
-		"all black",
-		"Codethread",
-		"Codethread theme",
-		"black theme",
-		"Amoled theme",
-		"dark theme",
-		"new theme 2022",
-		"black theme visual studio"
+		"Amoled",
+		"pitch Black",
+		"codeThreads",
+		"Black Theme"
 	],
 	"categories": [
 		"Themes"
 	],
-	"vsce": {
-		"baseImagesUrl": "https://github.com/jayantrohila57/codethread-black/blob/master/logo.png?raw=true"
-	},
+	"icon": "images/logo.png",
 	"contributes": {
 		"themes": [
 			{
@@ -48,6 +38,9 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/codethread-black-color-theme.json"
 			}
+		],
+		"maintainers": [
+			"jayant Rohila <mail@jayantrohila.dev.com> (https://jayantrohila.dev/)"
 		]
 	},
 	"dependencies": {

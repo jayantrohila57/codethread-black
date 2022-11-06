@@ -15,7 +15,7 @@ providing better code visibility and no distracting borders works best in dark a
 
 All notable changes to this project will be documented in this file.
 
-## [1.0.0] - new version [released]
+## [1.0.9] - new version [released]
 
 ### Added
 
