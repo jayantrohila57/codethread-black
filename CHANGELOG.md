@@ -1,9 +1,18 @@
-# Change Log
+# Changelog
 
-All notable changes to the "borderless-dark-black-theme" extension will be documented in this file.
+All notable changes to this project will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.0.0] - new version [released]
 
-## [Unreleased]
+### Added
 
-- Initial release
+- Added new colors in Syntax.
+- Added new colors in terminal and Git changes.
+
+### Fixed
+
+- Fixed status bar color.
+- Fixed tabs colors 
+
+
+
