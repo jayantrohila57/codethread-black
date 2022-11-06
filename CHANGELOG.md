@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.0.5] - minor change [released]
+## [1.0.8] - minor change [released]
 
 ### Added
 - logo updated.
