@@ -12,10 +12,6 @@
 	"engines": {
 		"vscode": "^1.63.0"
 	},
-	"galleryBanner": {
-		"color": "#252B2E",
-		"theme": "dark"
-	},
 	"keywords": [
 		"dark",
 		"theme",
@@ -38,9 +34,6 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/codethread-black-color-theme.json"
 			}
-		],
-		"maintainers": [
-			"jayant Rohila <mail@jayantrohila.dev.com> (https://jayantrohila.dev/)"
 		]
 	},
 	"dependencies": {
