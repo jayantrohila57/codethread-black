@@ -2,7 +2,7 @@
 	"name": "codethread-black",
 	"displayName": "Codethread Black",
 	"description": "It's a black theme made only for concentrating on the actual code rather than the surrounding. providing better code visibility and no distracting borders works best in dark areas.",
-	"version": "1.0.0",
+	"version": "1.0.5",
 	"publisher": "jayantrohila",
 	"repository": {
 		"type": "git",
@@ -39,7 +39,7 @@
 		"Themes"
 	],
 	"vsce": {
-		"baseImagesUrl": "https://github.com/jayantrohila57/codethread-black/logo.png"
+		"baseImagesUrl": "https://github.com/jayantrohila57/codethread-black/blob/master/logo.png?raw=true"
 	},
 	"contributes": {
 		"themes": [

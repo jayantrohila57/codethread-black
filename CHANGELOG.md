@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.5] - minor change [released]
+
+### Added
+- logo updated.
+- profile updated.
+- links updated.
+
 ## [1.0.0] - new version [released]
 
 ### Added
@@ -12,7 +19,7 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 
 - Fixed status bar color.
-- Fixed tabs colors 
+- Fixed tabs colors
 
 
 
