@@ -11,6 +11,22 @@ providing better code visibility and no distracting borders works best in dark a
 
 ![Image 2](https://github.com/jayantrohila57/codethread-black/blob/master/images/3.jpeg?raw=true)
 
+## Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [1.0.0] - new version [released]
+
+### Added
+
+- Added new colors in Syntax.
+- Added new colors in terminal and Git changes.
+
+### Fixed
+
+- Fixed status bar color.
+- Fixed tabs colors
+
 ## Installing
 
 This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/publishers/JayantRohila).
@@ -25,10 +41,7 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 To override this (or any other) theme in your personal config file, please follow the guide in the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation. This is handy for small tweaks to the theme without having to fork and maintain your own theme.
 
 ## GitHub
+
 To contribute or sponsor go to [GitHub](https://github.com/jayantrohila57/codethread-black)
-
-## LICENSE
-
-Apache License Version 2.0, January 2004 (http://www.apache.org/licenses/)
 
 Note: Publishing a new version of this theme is only meant for maintainers.

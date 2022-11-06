@@ -13,6 +13,18 @@
 	},
 	"keywords": [
 		"black",
+		"Black",
+		"Amoled black",
+		"Amoled black theme",
+		"Super black",
+		"simple black",
+		"vs code black theme",
+		"black for vs code",
+		"best vscode black theme",
+		"vscode theme black background",
+		"pitch black theme vscode",
+		"vs code black theme download",
+		"vs code black theme dark",
 		"jayant Rohila",
 		"all black",
 		"Codethread",
@@ -26,13 +38,19 @@
 	"categories": [
 		"Themes"
 	],
+	"vsce": {
+		"baseImagesUrl": "https://github.com/jayantrohila57/codethread-black/logo.png"
+	},
 	"contributes": {
 		"themes": [
 			{
-				"label": "codethread-black",
+				"label": "Codethread Black",
 				"uiTheme": "vs-dark",
 				"path": "./themes/codethread-black-color-theme.json"
 			}
 		]
+	},
+	"dependencies": {
+		"vsce": "^2.13.0"
 	}
 }
