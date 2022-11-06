@@ -32,7 +32,7 @@
 			{
 				"label": "Codethread Black",
 				"uiTheme": "vs-dark",
-				"path": "./themes/codethread-black-color-theme.json"
+				"path": "./themes/codethread-black.json"
 			}
 		]
 	},
