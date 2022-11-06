@@ -1,15 +1,15 @@
-# BorderLess dark black theme for VS Code
+# codethread-black theme for VS Code
 
 It's a black theme made only for concentrating on the actual code rather than the surrounding.
 providing better code visibility and no distracting borders works best in dark areas.
 
 ## Made by [Jayant Rohila](https://jayantrohila.dev)
 
-![image 0](https://github.com/jayantrohila57/Borderless-Dark-Black-Theme/blob/master/images/1.jpeg?raw=true)
+![image 0](https://github.com/jayantrohila57/codethread-black/blob/master/images/1.jpeg?raw=true)
 
-![Image 1](https://github.com/jayantrohila57/Borderless-Dark-Black-Theme/blob/master/images/2.jpeg?raw=true)
+![Image 1](https://github.com/jayantrohila57/codethread-black/blob/master/images/2.jpeg?raw=true)
 
-![Image 2](https://github.com/jayantrohila57/Borderless-Dark-Black-Theme/blob/master/images/3.jpeg?raw=true)
+![Image 2](https://github.com/jayantrohila57/codethread-black/blob/master/images/3.jpeg?raw=true)
 
 ## Installing
 
@@ -20,15 +20,12 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 3. Then [select a theme]
 4. Share with your friends
 
-
-
-
 ## Override this theme
 
 To override this (or any other) theme in your personal config file, please follow the guide in the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation. This is handy for small tweaks to the theme without having to fork and maintain your own theme.
 
 ## GitHub
-To contribute or sponsor go to [GitHub](https://github.com/jayantrohila57/Borderless-Dark-Black-Theme)
+To contribute or sponsor go to [GitHub](https://github.com/jayantrohila57/codethread-black)
 
 ## LICENSE
 
