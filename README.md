@@ -15,7 +15,12 @@ providing better code visibility and no distracting borders works best in dark a
 
 All notable changes to this project will be documented in this file.
 
-## [1.1.2] - minor change [released]
+## [2.1.0] - minor change [released]
+
+### updates
+
+- updated the editor colors
+- updated the terminal colors
 
 ### fixed
 
