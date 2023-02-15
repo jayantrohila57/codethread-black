@@ -2,7 +2,7 @@
 	"name": "codethread-black",
 	"displayName": "Codethread Black",
 	"description": "It's a black theme made only for concentrating on the actual code rather than the surrounding. providing better code visibility and no distracting borders works best in dark areas.",
-	"version": "1.1.2",
+	"version": "1.1.5",
 	"publisher": "jayantrohila",
 	"homepage": "https://github.com/jayantrohila57/codethread-black/releases",
 	"repository": {
@@ -13,17 +13,17 @@
 		"vscode": "^1.63.0"
 	},
 	"scripts": {
-		"package":"vsce package",
+		"package": "vsce package",
 		"publish": "vsce publish --baseImagesUrl /images/logo.png"
 	},
 	"keywords": [
-		"dark",
-		"theme",
-		"color-theme",
-		"Black",
-		"jayant Rohila",
+		"dark theme",
+		"Jayant Rohila",
+		"Borderless",
 		"Amoled",
-		"pitch Black",
+		"focus",
+		"No borders",
+		"Jet Black",
 		"codeThreads",
 		"Black Theme"
 	],
