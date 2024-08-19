@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+
+## [2.2.5] - minor change [released]
+
+### fixed
+
+- fix colors in Syntax.
+- add darker color
+- removed distracting lines
+
+## [2.2.2] - minor change [released]
+
+### fixed
+
+- fix colors in Syntax.
+- add darker color
+- removed distracting lines
+
 ## [1.1.2] - minor change [released]
 
 ### fixed

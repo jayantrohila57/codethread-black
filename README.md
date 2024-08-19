@@ -7,13 +7,27 @@ providing better code visibility and no distracting borders works best in dark a
 
 ![image 0](https://github.com/jayantrohila57/codethread-black/blob/master/images/1.jpeg?raw=true)
 
-![Image 1](https://github.com/jayantrohila57/codethread-black/blob/master/images/2.jpeg?raw=true)
-
-![Image 2](https://github.com/jayantrohila57/codethread-black/blob/master/images/3.jpeg?raw=true)
 
 ## Changelog
 
 All notable changes to this project will be documented in this file.
+
+
+## [2.2.5] - minor change [released]
+
+### fixed
+
+- fix colors in Syntax.
+- add darker color
+- removed distracting lines
+
+## [2.2.2] - minor change [released]
+
+### fixed
+
+- fix colors in Syntax.
+- add darker color
+- removed distracting lines
 
 ## [2.1.9] - minor change [released]
 
