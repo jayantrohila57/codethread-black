@@ -1,62 +1,25 @@
-# codethread-black theme for VS Code
+# Codethread Black
 
-It's a black theme made only for concentrating on the actual code rather than the surrounding.
-providing better code visibility and no distracting borders works best in dark areas.
+A dark Visual Studio Code theme. The editor chrome stays black so the code is what you see.
 
-## Made by [Jayant Rohila](https://jayantrohila.dev)
+Install it from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JayantRohila.codethread-black).
 
-![image 0](https://github.com/jayantrohila57/codethread-black/blob/master/images/1.jpeg?raw=true)
+![Codethread Black](https://github.com/jayantrohila57/codethread-black/blob/master/images/1.jpeg?raw=true)
 
+## Install
 
-## Changelog
+In VS Code, open Extensions, search for Codethread Black, and install it. Then open the Command Palette and run "Preferences: Color Theme". Pick Codethread Black.
 
-All notable changes to this project will be documented in this file.
+Or from a terminal:
 
+```bash
+code --install-extension JayantRohila.codethread-black
+```
 
-## [2.2.5] - minor change [released]
+## Theme file
 
-### fixed
+The theme is `themes/codethread-black.json`. It contributes one dark theme, labeled Codethread Black, and needs VS Code 1.63 or newer.
 
-- fix colors in Syntax.
-- add darker color
-- removed distracting lines
+## License
 
-## [2.2.2] - minor change [released]
-
-### fixed
-
-- fix colors in Syntax.
-- add darker color
-- removed distracting lines
-
-## [2.1.9] - minor change [released]
-
-### updates
-
-- updated the editor colors
-- updated the terminal colors
-
-### fixed
-
-- fix colors in Syntax.
-- fix colors in terminal and Git changes.
-- fix selection text
-
-## Installing
-
-This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/publishers/JayantRohila).
-
-1. Download from the market
-2. Click on the "Install" button.
-3. Then [select a theme]
-4. Share with your friends
-
-## Override this theme
-
-To override this (or any other) theme in your personal config file, please follow the guide in the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation. This is handy for small tweaks to the theme without having to fork and maintain your own theme.
-
-## GitHub
-
-To contribute or sponsor go to [GitHub](https://github.com/jayantrohila57/codethread-black)
-
-Note: Publishing a new version of this theme is only meant for maintainers.
+Apache-2.0. See [LICENSE](LICENSE).
