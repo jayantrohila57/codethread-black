@@ -4,6 +4,8 @@ A dark Visual Studio Code theme. The editor chrome stays black so the code is wh
 
 Install it from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JayantRohila.codethread-black).
 
+**Current version:** 2.2.5 · **Requires:** VS Code 1.63.0 or newer (`engines.vscode: ^1.63.0` in `package.json`)
+
 ![Codethread Black](https://github.com/jayantrohila57/codethread-black/blob/master/images/1.jpeg?raw=true)
 
 ## Install
