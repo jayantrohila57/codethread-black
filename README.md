@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/brand/readme-banner.png" alt="Codethread Black: A dark VS Code theme. The editor chrome stays black so the code is what you see." width="100%" /></p>
+
 # Codethread Black
 
 A dark Visual Studio Code theme. The editor chrome stays black so the code is what you see.
@@ -21,6 +23,24 @@ code --install-extension JayantRohila.codethread-black
 ## Theme file
 
 The theme is `themes/codethread-black.json`. It contributes one dark theme, labeled Codethread Black, and needs VS Code 1.63 or newer.
+
+## Brand
+
+<img src=".github/brand/logo-lockup-on-light.png#gh-light-mode-only" alt="Codethread Black logo" height="56" /><img src=".github/brand/logo-lockup-on-dark.png#gh-dark-mode-only" alt="Codethread Black logo" height="56" />
+
+**A dark VS Code theme. The editor chrome stays black so the code is what you see.**
+
+Brand assets live in [`.github/brand`](.github/brand): logo mark (SVG and PNG), wordmark (SVG), light and dark lockups, app icons (512, 192 and 32 px), an Open Graph image (1200×630), a GitHub social preview (1280×640), this README banner, an X/LinkedIn banner (1500×500) and a palette sheet.
+
+| Role | Hex | Source |
+| --- | --- | --- |
+| Editor background | `#000000` | `editor.background` |
+| Editor foreground | `#ffffff` | `editor.foreground` |
+| Token grey | `#b4b4b8` | `tokenColors (most used)` |
+| Token slate | `#6e819f` | `tokenColors` |
+| Token teal | `#76abae` | `tokenColors` |
+
+Type: No web typeface (it is an editor theme). Brand images are set in Geist and Geist Mono.
 
 ## License
 
